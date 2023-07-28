@@ -20,3 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 &nbsp;
 
 <img width="203" alt="Screenshot 2023-07-28 at 8 28 18 AM" src="https://github.com/shaheerzk01/Flutter_Booking_App_GETX/assets/103843506/a65825dc-2087-43d1-879b-6364e619ff71">
+&nbsp;
+&nbsp;
+
+<img width="211" alt="Screenshot 2023-07-28 at 8 28 59 AM" src="https://github.com/shaheerzk01/Flutter_Booking_App_GETX/assets/103843506/ef64103d-03a7-4b80-b7e4-43b08522b71c">
